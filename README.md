@@ -25,7 +25,7 @@ BUILD INSTRUCTIONS
    https://geodynamics.org/cig/software/selen/
    
 2. Download the repository: 
-   https://github.com/r-hartmann/RFBupdate_for_SELEN/src_RFBupdate/
+   https://github.com/r-hartmann/RFBupdate_for_SELEN/
    
 3. Copy all .F90/.f90-files from the repository folder ./src_RFBupdate/ into 
    your SELEN source folder ./selen-2.9.12/src/ (replace original files).
