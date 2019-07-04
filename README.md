@@ -24,17 +24,19 @@ BUILD INSTRUCTIONS
    installation guide is given in the official SELEN user manual:
    https://geodynamics.org/cig/software/selen/
    
-2. Copy all .F90/.f90-files from the repository 
-   https://github.com/r-hartmann/RFBupdate_for_SELEN/src_RFBupdate/ into your 
-   SELEN source folder ./selen-2.9.12/src/ (replace original files).
+2. Download the repository: 
+   https://github.com/r-hartmann/RFBupdate_for_SELEN/src_RFBupdate/
+   
+3. Copy all .F90/.f90-files from the repository folder ./src_RFBupdate/ into 
+   your SELEN source folder ./selen-2.9.12/src/ (replace original files).
 
-3. Replace the Makefile.in in your SELEN directory ./selen-2.9.12/ with the new
+4. Replace the Makefile.in in your SELEN directory ./selen-2.9.12/ with the new
    Makefile.in from the repository.
    
-4. Replace the config.dat in your SELEN directory ./selen-2.9.12/ with the new 
+5. Replace the config.dat in your SELEN directory ./selen-2.9.12/ with the new 
    config.dat from the repository.
 
-5. DONE!
+6. DONE!
 
 ################################################################################
 
