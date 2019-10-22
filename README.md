@@ -53,5 +53,5 @@ config.dat via the parameter 'y'/'n':
 
 ################################################################################
 Version 1.0.0
-Robert Hartmann (stu200105 AT mail DOT uni-kiel DOT de)
+Robert Hartmann (r DOT hartmann AT utwente DOT nl)
 04.07.2019
